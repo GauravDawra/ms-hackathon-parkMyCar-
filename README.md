@@ -21,4 +21,3 @@ It also helps the client (user) to find the nearest parking lot
 - Clone the repo 
 - Install the related requirements
 - Use python3 app.py . It will run on localhost:5000
-- Docker container is available at ayushg1214/hackathon
